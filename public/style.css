@@ -1,0 +1,43 @@
+body{
+    background-color: #2b3269;
+
+    color: rgb(255, 255, 255);
+
+    overflow: hidden;
+    
+
+}
+.mytable{
+
+    margin-top: 11vh;
+    
+    
+    
+}
+
+.soft{
+
+    border-radius: 15px;
+background: linear-gradient(315deg, #272d5f, #2e3670);
+box-shadow:  -18px -18px 36px #20264f,
+             18px 18px 36px #363f83;
+}
+
+
+
+
+td{
+    height: 120px;
+    width: 50px;
+   font-size: 42px;
+
+    
+  
+    
+   
+}
+
+
+.gfont{
+
+    font-family: 'Georgia', sans-serif;}
